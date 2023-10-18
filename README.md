@@ -59,10 +59,13 @@ In this project, we've conducted a variety of SQL queries to analyze the financi
 
 You can execute the provided SQL queries in your database to perform the analysis. Make sure to replace 'fraudulent_transactions' with your actual table name if different.
 
-## Acknowledgments
-
-This project is part of a comprehensive analysis of financial data to detect and prevent fraudulent transactions. The insights gained from this analysis can help financial institutions enhance security and protect their customers' assets.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Contact
+If you have any questions, suggestions, or issues related to this project, feel free to contact us at [flaurapall@gmail.com].
+
+## Author
+* [Pall Laura](https://github.com/laurapall)
+
