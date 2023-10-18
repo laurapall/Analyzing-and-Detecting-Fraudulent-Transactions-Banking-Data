@@ -1,7 +1,5 @@
 # Analyzing-and-Detecting-Fraudulent-Transactions-Banking-Data
 Utilizing SQL for Data-Driven Fraud Detection in Financial Transactions.
-# Predictive Analysis of Fraudulent Transactions in Financial Data
-
 This project aims to develop a predictive model for detecting fraudulent transactions in a financial dataset and extracting valuable insights from the data.
 
 ## Dataset Description
